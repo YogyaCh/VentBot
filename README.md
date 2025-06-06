@@ -1,7 +1,7 @@
 
 # VentBot
 
-A voice-first empathetic agent built using Vapi and OpenAI.
+A voice-first empathetic agent built using Vapi and Ollama.
 
 ## Features
 - Real-time conversation handling with FastAPI
